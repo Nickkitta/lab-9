@@ -9,6 +9,7 @@ int main() {
     cin >> num2;
 
     cout << "Sum = " << num1 + num2 << "\n";
+    cout << "Diff = " << num1 - num2 << "\n";
 
     return 0;
 }
