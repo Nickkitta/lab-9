@@ -8,5 +8,7 @@ int main() {
     cout << "Input second number: ";
     cin >> num2;
 
+    cout << "Sum = " << num1 + num2 << "\n";
+
     return 0;
 }
