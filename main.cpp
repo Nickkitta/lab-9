@@ -13,6 +13,7 @@ int main() {
     cout << "Sum = " << num1 + num2 << "\n";
     cout << "Diff = " << num1 - num2 << "\n";
     cout << "Mult = " << num1 * num2 << "\n";
+    cout << "Quo = " << num1 / num2 << "\n";
 
     return 0;
 }
