@@ -1,5 +1,7 @@
 #include "std.h"
 
+// Это учебная программа
+
 int main() {
     int num1, num2;
 
